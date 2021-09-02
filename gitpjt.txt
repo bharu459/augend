@@ -1,0 +1,6 @@
+hi this is bharathi 
+this is git lab practice
+i create directory
+and change to that directory
+created a file in that directory
+i will try to add some text in that directory
